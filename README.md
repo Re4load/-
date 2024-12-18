@@ -1,6 +1,6 @@
-# -# Twinby Love(TL)
+# -# Twinby Love (TL)
 ## Концепт дизайна
-https://www.figma.com/design/GvbgXn9MjmdfOrb5yNPmRc/Device-Frames-(Community)?node-id=0-1&node-type=canvas&t=Y0BW9ukAG98OKrC3-0
+https://www.figma.com/design/F2hcdk4W5a3BGUxUw5Ira7/Untitled?node-id=0-1&t=8K6nCDNiBwUEwOko-1
 ## Общая характеристика
 1. Название приложения: LIP (сокращение от Love in pixels).
 2. Цель приложения: помочь пользователю найти партнера при помощи удобной системы поиска знакомств.
